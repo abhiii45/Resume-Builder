@@ -47,33 +47,6 @@ A resume builder application that allows users to create, customize, and downloa
 7. **Start the development server:**
    ```bash
    nodemon index.js
-   
-## Project Structure
-   - AI Resume Builder
-      - src/
-         - components/
-            - Calendar.js
-            - EventForm.js
-            - EventList.js
-            - EventDetails.js
-         - context/
-            - EventContext.js
-      - App.js
-      - index.js
-      - package.json
-      
-   - Backend
-      - index.js
-         - routes/
-            - route.js
-      -models/
-            - auth.js
-      -controllers/
-            - login.js
-            - signup.js
-      -config/
-            - database.js
-      -package.json 
       
 ## Contributing
 
